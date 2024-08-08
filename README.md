@@ -15,7 +15,7 @@ I'm always open to collaborating on innovative projects, especially those involv
 
 ### 📫 Let's Connect
 - **Email:** [Waheedanwar9002@gmail.com](mailto:Waheedanwar9002@gmail.com)
-- **LinkedIn:** [Waheed Anwar](www.linkedin.com/in/waheed-anwar9002/)
+- **LinkedIn:** [Waheed Anwar](https://www.linkedin.com/in/waheed-anwar-0b0b52235/)
 - **GitHub:** [@Waheed9002](https://github.com/Waheed9002)
 
 ### ⚡ Fun Fact
