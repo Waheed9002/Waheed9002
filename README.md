@@ -2,10 +2,10 @@
 I'm a passionate software engineer with a deep interest in Mobile Development, Machine Learning, and Deep Learning. My expertise lies in creating cutting-edge applications that seamlessly integrate advanced AI technologies with user-friendly mobile interfaces.
 
 ### 🌟 What I Do
- **📱 Mobile Development:** Crafting sleek and intuitive mobile apps using Flutter.
- **🧠 Machine Learning & Deep Learning:** Specializing in training custom object detection models and implementing AI-driven features in mobile applications.
- **🎨 Augmented Reality:** Bringing immersive AR experiences to life with ARCore and ARKit.
- **🚀 Projects:** Always working on exciting projects that push the boundaries of what's possible in tech.
+- **📱 Mobile Development:** Crafting sleek and intuitive mobile apps using Flutter.
+- **🧠 Machine Learning & Deep Learning:** Specializing in training custom object detection models and implementing AI-driven features in mobile applications.
+- **🎨 Augmented Reality:** Bringing immersive AR experiences to life with ARCore and ARKit.
+- **🚀 Projects:** Always working on exciting projects that push the boundaries of what's possible in tech.
 
 ### 🌱 Currently Learning
 I'm continuously expanding my knowledge in AI, especially focusing on YOLO models, and enhancing my mobile app development skills.
